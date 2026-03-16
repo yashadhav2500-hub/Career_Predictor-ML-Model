@@ -1,0 +1,4 @@
+# Ensure joblib binary files are pushed as binary (never line-ending converted)
+*.joblib binary
+*.xlsx   binary
+*.pkl    binary
